@@ -4,6 +4,8 @@
 
  Welcome to visit our website (底层视觉AI社区&基础科研平台) for low-level vision: https://lowlevelcv.com/
 
+<img src = "zb.jpg">
+
 <hr />
 
 > **TO DO** 底层视觉社区平台创办人陈翔博士线上学术报告：《图像复原基础模型的发展及底层视觉社区平台年度展望》，预计将于2025年12月中下旬进行，相关讲座信息请关注微信公众号（底层视觉社区）的后期活动推送。
