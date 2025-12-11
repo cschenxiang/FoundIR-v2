@@ -4,7 +4,7 @@
 
 ### FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model
 
-> [[[Paper](https://arxiv.org/abs/2512.09282)] &emsp; [Supplemental Material] &emsp; [中文版介绍]
+> [[Paper](https://arxiv.org/abs/2512.09282)] &emsp; [Supplemental Material] &emsp; [中文版介绍]
 
 > [Xiang Chen](https://cschenxiang.github.io/), [Jinshan Pan](https://jspan.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=en&user=6CIDtZQAAAAJ), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN),  <br>
 > Nanjing University of Science and Technology, Nanjing Forestry University
