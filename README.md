@@ -23,6 +23,11 @@ Welcome to visit our website (底层视觉社区平台&基础科研平台) for l
 ### 🚩 **New Features/Updates**
 - ✅ December 11, 2025. Release [paper](https://arxiv.org/abs/2512.09282).
 
+
+### Acknowledgement
+<img src = "web.jpg">
+
+
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
