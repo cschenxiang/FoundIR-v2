@@ -25,7 +25,7 @@ Welcome to visit our website (底层视觉社区平台&基础科研平台) for l
 
 
 ### Acknowledgement
-<img src = "web.jpg">
+<img src = "./assets/web.jpg">
 
 
 ### Citation
