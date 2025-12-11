@@ -6,7 +6,7 @@
 
 > [[Paper](https://arxiv.org/abs/2512.09282)] &emsp; [Supplemental Material] &emsp; [中文版介绍]
 
-> [Xiang Chen](https://cschenxiang.github.io/), [Jinshan Pan](https://jspan.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=en&user=6CIDtZQAAAAJ), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN),  <br>
+> [Xiang Chen](https://cschenxiang.github.io/), [Jinshan Pan](https://jspan.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=en&user=6CIDtZQAAAAJ), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)  <br>
 > Nanjing University of Science and Technology, Nanjing Forestry University
 
 Welcome to visit our website (底层视觉社区平台&基础科研平台) for low-level vision: https://lowlevelcv.com/
