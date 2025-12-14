@@ -35,6 +35,14 @@ If this work is helpful for your research, please consider citing the following 
       year={2025}
 }
  ```
+```
+@inproceedings{li2024foundir,
+      title={FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration},
+      author={Li, Hao and Chen, Xiang and Dong, Jiangxin and Tang, Jinhui and Pan, Jinshan},
+      booktitle={ICCV},
+      year={2025}
+}
+ ```
 
 ### Contact
 If you have any questions, please feel free to reach us out at <a href="mailto:chenxiang@njust.edu.cn">chenxiang@njust.edu.cn</a>.
