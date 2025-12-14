@@ -22,8 +22,8 @@ Welcome to visit our website (底层视觉社区平台&基础科研平台) for l
 ---
 
 ### 🚩 **New Features/Updates**
-- ✅ December 11, 2025. Release [paper](https://arxiv.org/abs/2512.09282).
-- ✅ June 26, 2025. 🎉 Our FoundIR was accepted by **ICCV 2025**! [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FoundIR_Unleashing_Million-scale_Training_Data_to_Advance_Foundation_Models_for_ICCV_2025_paper.pdf) and [supplemental material](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FoundIR_Unleashing_Million-scale_ICCV_2025_supplemental.pdf)
+- ✅ December 11, 2025. Release FoundIR-v2 [paper](https://arxiv.org/abs/2512.09282).
+- ✅ June 26, 2025. 🎉 Our FoundIR was accepted by **ICCV 2025**! [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FoundIR_Unleashing_Million-scale_Training_Data_to_Advance_Foundation_Models_for_ICCV_2025_paper.pdf) and [supplemental material](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FoundIR_Unleashing_Million-scale_ICCV_2025_supplemental.pdf).
 
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
