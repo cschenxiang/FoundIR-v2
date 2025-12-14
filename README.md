@@ -4,7 +4,7 @@
 
 ### FoundIR-v2: Optimizing Pre-Training Data Mixtures for Image Restoration Foundation Model
 
-> [[Paper](https://arxiv.org/abs/2512.09282)] &emsp; [Supplemental Material] &emsp; [中文版介绍]
+> [[Paper](https://arxiv.org/abs/2512.09282)] &emsp; [Supplemental Material] &emsp; [[中文版解读](https://mp.weixin.qq.com/s/YEFRmdXPDr3tt8x8y8FTkQ)]
 
 > [Xiang Chen](https://cschenxiang.github.io/), [Jinshan Pan](https://jspan.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jian Yang](https://scholar.google.com/citations?hl=en&user=6CIDtZQAAAAJ), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN)  <br>
 > Nanjing University of Science and Technology, Nanjing Forestry University
@@ -23,7 +23,7 @@ Welcome to visit our website (底层视觉社区平台&基础科研平台) for l
 
 ### 🚩 **New Features/Updates**
 - ✅ December 11, 2025. Release [paper](https://arxiv.org/abs/2512.09282).
-
+- ✅ June 26, 2025. 🎉 Our FoundIR was accepted by **ICCV 2025**! [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_FoundIR_Unleashing_Million-scale_Training_Data_to_Advance_Foundation_Models_for_ICCV_2025_paper.pdf) and [supplemental material](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Li_FoundIR_Unleashing_Million-scale_ICCV_2025_supplemental.pdf)
 
 ### Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
@@ -36,7 +36,7 @@ If this work is helpful for your research, please consider citing the following 
 }
  ```
 ```
-@inproceedings{li2024foundir,
+@inproceedings{foundir,
       title={FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration},
       author={Li, Hao and Chen, Xiang and Dong, Jiangxin and Tang, Jinhui and Pan, Jinshan},
       booktitle={ICCV},
