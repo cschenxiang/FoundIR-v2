@@ -1,0 +1,3 @@
+torch==2.4.0
+diffusers==0.28.0
+transformers==4.46.1
